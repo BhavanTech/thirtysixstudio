@@ -1,4 +1,4 @@
-![Project Preview](/public/thirtysixstudio.png)
+![ThirtySix Studio](/public/thirtysixstudio.png)
 
 <p align="center">
  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
